@@ -1,0 +1,10 @@
+.kotak{
+    background:white;
+    width: 360px;
+    margin: 80px auto;
+    padding: 30px 20px;
+    opacity: unset;
+    }
+body{
+        background-image: url(img/home-bg.jpg);
+    }
